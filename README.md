@@ -2,8 +2,6 @@
 This is a Image Classification Technique and classified with Deep Learning which classifies car which belongs to any of the 10 classes
 Those classes are <b>Audi , Lamborghini , Mercedes , KIA , Suzuki , Tata , Ford , Lexus , Honda , Mahindra</b>
 
-All these images are being scraped from the web using the <b>Simple Image download module from python</b>
-
 The front end is developed with the help of Gradio which provides an Interface which is readily available for Data Scientists which avoids using HTML,CSS,JavaScript and this is mainly useful for POC purpose and this classification is done using Creating the Architecture from scratch and then shifted to the transfer learning techniques such as InceptionV3 and VGG16 for getting better prediction
 
 <h1>The below page is the Front End for the Application which is developed using Gradio</h1>
@@ -37,10 +35,12 @@ Jupyter Notebook
 
 <img src= "gradio.png">  &nbsp;&nbsp;&nbsp;&nbsp;    <img src="tf.png">    &nbsp;&nbsp;&nbsp;&nbsp;   <img src="jupyter.png" height=150 width= 150>
 
+<h1>Work Flow for the Project</h1>
 
+<h1>Data Collection</h1><br>
+All these images are being scraped from the web using the <b>Simple Image download module from python</b>
 
-
-
+<h1>Model Creation</h1> <br>
 <h1>The accuarcies of the models used for classification :</h1> <br>
 <b>Architectures</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      <b>Accuracies</b><br>
 <b>1.Base Model</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          <b>91%</b>  <br>
