@@ -38,7 +38,7 @@ Jupyter Notebook
 <h1>Work Flow for the Project</h1>
 
 <h1>Data Collection</h1><br>
-All these images are being scraped from the web using the <b>Simple Image download module from python</b> and these images are of two extensions <b>jpeg</b> and <b>png</b> 
+All these images are being scraped from the web using the <b>Simple Image download module from python</b> and these images are of two extensions <b>jpeg</b> and <b>png</b> and these images are provided by various websites
 <br><br>
 
 <h1>Data Preprocessing</h1><br> 
@@ -57,3 +57,6 @@ Total Three Architectures are created one is the base model and which is created
 <b>2.InceptionV3</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      <b>98%</b> <br>
 <b>3.VGG16</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <b>98%</b>
 
+
+<b>If anyone like my project I am giving my LinkedIn Profile and if you want we can connect there<b>
+ <a href = https://www.linkedin.com/in/ravi-shankar-94b587174/</a>
