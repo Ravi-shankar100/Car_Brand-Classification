@@ -57,6 +57,6 @@ Total Three Architectures are created one is the base model and which is created
 <b>2.InceptionV3</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      <b>98%</b> <br>
 <b>3.VGG16</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <b>98%</b>
 
-
-<b>If anyone like my project I am giving my LinkedIn Profile and if you want we can connect there<b>
+<br><br>
+<h1>If anyone like my project and want to know more about it. I am giving my LinkedIn Profile and if you want we can connect there</h1><br>
  <a href = https://www.linkedin.com/in/ravi-shankar-94b587174/</a>
