@@ -28,6 +28,6 @@ Here we ca see that both the architectures gave us the right predictions for the
 <img src= "gradio.png">
 
 <b>The accuarcies of the models used for classification</b>
-<b>Base Model</b> ----  <b>91%</b>
-<b>InceptionV3</b>  ----  <b>98%</b>
+<b>Base Model</b> ----  <b>91%</b>  <br>
+<b>InceptionV3</b>  ----  <b>98%</b> <br>
 <b>VGG16</b>   ----  <b>99%</b>
