@@ -8,7 +8,7 @@ The front end is developed with the help of Gradio which provides an Interface w
 
 The below page is the Front End for the Application which gives us the  predictions for the cars classes
 
-<img src= "fe.png">
+<img src = "fe.png">
 
 The next image is the continution image here we have the various classes of cars
 
