@@ -9,3 +9,7 @@ The front end is developed with the help of Gradio which provides an Interface w
 
 
 <img src= "fe.png">
+
+The next image
+
+<img src = "fe1.png">
