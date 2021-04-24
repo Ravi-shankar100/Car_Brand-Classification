@@ -8,4 +8,4 @@ The front end is developed with the help of Gradio which provides an Interface w
 
 
 
-
+<img src= "fe.png">
