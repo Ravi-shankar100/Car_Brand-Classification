@@ -13,3 +13,9 @@ The front end is developed with the help of Gradio which provides an Interface w
 The next image is the continution image here we have the various classes of cars
 
 <img src = "fe1.png">
+
+
+Now we will test on one of the image and see the prediction from both the Transfer Learning Architectures
+The top one is InceptionV3 and the bottom one is the VGG16
+
+<img src="lamb.png">
