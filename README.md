@@ -18,7 +18,11 @@ The next image is the continution image here we have the various classes of cars
 Now we will test on one of the image and see the prediction from both the Transfer Learning Architectures
 The top one is InceptionV3 and the bottom one is the VGG16
 
-<img src="lamb.png">
+<img src="lamb1.png">
 
 
 Here we ca see that both the architectures gave us the right predictions for the car and there are some errors but these two techniques gives us good performance and also helps us to identify the classes for the cars
+
+Front End 
+
+<img src="grad.png>
