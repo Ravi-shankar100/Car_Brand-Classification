@@ -34,8 +34,8 @@ Jupyter Notebook
 <b>Deep Learning Framewrok</b><br>
  Tensorflow
  
- 
-<img src= "gradio.png">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <img src="tf.png">
+
+<img src= "gradio.png">  &nbsp;&nbsp;&nbsp;&nbsp;    <img src="tf.png">    &nbsp;&nbsp;&nbsp;&nbsp;   <img src="jupyter.png">
 
 
 
