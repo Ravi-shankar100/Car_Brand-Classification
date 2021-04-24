@@ -8,7 +8,7 @@ The front end is developed with the help of Gradio which provides an Interface w
 
 
 
-<img src= "fe.png" width= 100 height= 100>
+<img src= "fe.png" width= 600 height= 600>
 
 The next image
 
