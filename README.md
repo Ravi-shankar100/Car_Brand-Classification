@@ -38,7 +38,8 @@ Jupyter Notebook
 <h1>Work Flow for the Project</h1>
 
 <h1>Data Collection</h1><br>
-All these images are being scraped from the web using the <b>Simple Image download module from python</b>
+All these images are being scraped from the web using the <b>Simple Image download module from python</b> and these images are of two extensions <b>jpeg</b> and <b>png</b> 
+<br><br>
 
 <h1>Data Preprocessing</h1><br> 
 The data is split into training and test and the training data is applied with various tranformations such as horizontal flip , zoom in , zoom out , shear range and scaling etc
@@ -48,8 +49,9 @@ The test data is scaling as we cant apply any transformations to the test data
 <br><br>
 
 <h1>Model Creation</h1> <br>
-Total Three Architectures are created one is the base model and which is created from scracth and other two are the transfer learning techniques such as InceptionV3 and VGG16<br>
-<h1>The accuarcies of the models used for classification :</h1> <br>
+Total Three Architectures are created one is the base model and which is created from scratch and other two are the transfer learning techniques such as InceptionV3 and VGG16 which improved the performance of the model<br>
+
+<b>The accuarcies of the models used for classification :</b> <br><br>
 <b>Architectures</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      <b>Accuracies</b><br>
 <b>1.Base Model</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          <b>91%</b>  <br>
 <b>2.InceptionV3</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      <b>98%</b> <br>
