@@ -35,7 +35,7 @@ Jupyter Notebook
  Tensorflow
  
 
-<img src= "gradio.png">  &nbsp;&nbsp;&nbsp;&nbsp;    <img src="tf.png">    &nbsp;&nbsp;&nbsp;&nbsp;   <img src="jupyter.png">
+<img src= "gradio.png">  &nbsp;&nbsp;&nbsp;&nbsp;    <img src="tf.png">    &nbsp;&nbsp;&nbsp;&nbsp;   <img src="jupyter.png" height=150 width= 150>
 
 
 
