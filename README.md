@@ -6,18 +6,19 @@ All these images are being scraped from the web using the <b>Simple Image downlo
 
 The front end is developed with the help of Gradio which provides an Interface which is readily available for Data Scientists which avoids using HTML,CSS,JavaScript and this is mainly useful for POC purpose and this classification is done using Creating the Architecture from scratch and then shifted to the transfer learning techniques such as InceptionV3 and VGG16 for getting better prediction
 
-The below page is the Front End for the Application which is developed using Gradio
+<h1>The below page is the Front End for the Application which is developed using Gradio</h1>
 
 <img src = "fend.png">
 
-The next image is the continution image here we have the various classes of cars as the sample images
+<b>The next image is the continution image here we have the various classes of cars as the sample images</b>
 
 <img src = "fe1.png">
 
 
 Now we will test on one of the image and see the prediction from both the Transfer Learning Architectures
 The top one is InceptionV3 and the bottom one is the VGG16 and here we ouput the top 3 classes classified for the cars
-
+<br>
+<h1>Testing and getting the results</h1>
 <img src="lamb1.png">
 
 
