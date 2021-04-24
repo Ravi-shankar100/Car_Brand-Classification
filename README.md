@@ -10,6 +10,6 @@ The front end is developed with the help of Gradio which provides an Interface w
 
 <img src= "fe.png">
 
-The next image
+The next image is the continution image here we have the various classes of cars
 
 <img src = "fe1.png">
