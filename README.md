@@ -25,15 +25,13 @@ The top one is InceptionV3 and the bottom one is the VGG16 and here we ouput the
 Here we ca see that both the architectures gave us the right predictions for the car but there are some errors and these two techniques gives us good performance and also helps us to identify the classes of the cars accurately
 
 <b>Front End Tool</b> <br>
-<u></u><br>
 Gradio <br>
 
 <b>IDE</b><br>
-<u></u><br>
 Jupyter Notebook
+
 <br>
 <b>Deep Learning Framewrok</b><br>
-<u></u><br>
  Tensorflow
  
  
@@ -44,7 +42,7 @@ Jupyter Notebook
 
 
 
-<h1>The accuarcies of the models used for classification</h1>: <br>
+<h1>The accuarcies of the models used for classification :</h1> <br>
 <b>Architectures</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      <b>Accuracies</b><br>
 <b>Base Model</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          <b>91%</b>  <br>
 <b>InceptionV3</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      <b>98%</b> <br>
