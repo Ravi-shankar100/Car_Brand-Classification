@@ -25,12 +25,21 @@ The top one is InceptionV3 and the bottom one is the VGG16 and here we ouput the
 Here we ca see that both the architectures gave us the right predictions for the car but there are some errors and these two techniques gives us good performance and also helps us to identify the classes of the cars accurately
 
 <b>Front End Tool</b> <br>
-1.Gradio <br>
+<u><br>
+Gradio <br>
 
 <b>IDE</b><br>
-1.Jupyter Notebook
+<u><br>
+Jupyter Notebook
+<br>
+<b>Deep Learning Framewrok</b><br>
+ Tensorflow
  
-<img src= "gradio.png">                                 
+ 
+<img src= "gradio.png"> 
+
+ <img src="tf.png">
+
 
 
 
@@ -40,6 +49,3 @@ Here we ca see that both the architectures gave us the right predictions for the
 <b>InceptionV3</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      <b>98%</b> <br>
 <b>VGG16</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <b>98%</b>
 
-<b>Deep Learning Framework </b>
-
- <img src="tf.png">
