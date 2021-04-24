@@ -2,7 +2,7 @@
 This is a Image Classification Technique and classified with Deep Learning which classifies car which belongs to any of the 10 classes
 Those classes are <b>Audi , Lamborghini , Mercedes , KIA , Suzuki , Tata , Ford , Lexus , Honda , Mahindra</b>
 
-All these images are being scraped from the web using the simple image download module from python
+All these images are being scraped from the web using the <b>Simple Image download module from python</b>
 
 The front end is developed with the help of Gradio which provides an Interface which is readily available for Data Scientists which avoids using HTML,CSS,JavaScript and this is mainly useful for POC purpose and this classification is done using Creating the Architecture from scratch and then shifted to the transfer learning techniques such as InceptionV3 and VGG16 for getting better prediction
 
