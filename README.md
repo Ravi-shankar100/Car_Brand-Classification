@@ -23,9 +23,8 @@ The top one is InceptionV3 and the bottom one is the VGG16 and here we ouput the
 
 Here we ca see that both the architectures gave us the right predictions for the car but there are some errors and these two techniques gives us good performance and also helps us to identify the classes of the cars accurately
 
-<b>Front End Tool</b>          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     <b>Deep Learning Framework </b>
-
-<img src= "gradio.png">        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                           <img src="tf.png">
+<b>Front End Tool</b>                              
+<img src= "gradio.png">                                 
 
 
 
@@ -36,4 +35,6 @@ Here we ca see that both the architectures gave us the right predictions for the
 <b>InceptionV3</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      <b>98%</b> <br>
 <b>VGG16</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <b>99%</b>
 
+<b>Deep Learning Framework </b>
 
+ <img src="tf.png">
