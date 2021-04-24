@@ -1,4 +1,4 @@
-# Car_Brand-Classification
+# Car_Brand_Classification
 This is a Image Classification Technique and classified with Deep Learning which classifies car which belongs to any of the 10 classes
 Those classes are <b>Audi , Lamborghini , Mercedes , KIA , Suzuki , Tata , Ford , Lexus , Honda , Mahindra</b>
 
