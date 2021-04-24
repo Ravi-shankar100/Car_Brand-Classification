@@ -36,4 +36,4 @@ Here we ca see that both the architectures gave us the right predictions for the
 
 <b>Deep Learning Framework </b>
 
-<img src="tf.png>
+<img src="tf.png">
