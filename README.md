@@ -24,9 +24,12 @@ The top one is InceptionV3 and the bottom one is the VGG16 and here we ouput the
 
 Here we ca see that both the architectures gave us the right predictions for the car but there are some errors and these two techniques gives us good performance and also helps us to identify the classes of the cars accurately
 
-<b>Front End Tool</b>                              
+<b>Front End Tool</b> <br>
+<b>Gradio
+<b>IDE</b><br>
+Jupyter Notebook
+ 
 <img src= "gradio.png">                                 
-
 
 
 
