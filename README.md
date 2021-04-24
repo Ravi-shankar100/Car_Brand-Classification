@@ -50,7 +50,7 @@ The test data is scaling as we cant apply any transformations to the test data
 
 <h1>Model Creation</h1> <br>
 Total Three Architectures are created one is the base model and which is created from scratch and other two are the transfer learning techniques such as InceptionV3 and VGG16 which improved the performance of the model<br>
-
+<br>
 <b>The accuarcies of the models used for classification :</b> <br><br>
 <b>Architectures</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      <b>Accuracies</b><br>
 <b>1.Base Model</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          <b>91%</b>  <br>
