@@ -31,3 +31,6 @@ Here we ca see that both the architectures gave us the right predictions for the
 <b>Base Model</b> ----  <b>91%</b>  <br>
 <b>InceptionV3</b>  ----  <b>98%</b> <br>
 <b>VGG16</b>   ----  <b>99%</b>
+
+
+<b>Deep Learning Framework </b>
